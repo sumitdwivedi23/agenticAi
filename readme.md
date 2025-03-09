@@ -1,6 +1,6 @@
 ---
 title: AgenticAILanggraph
-emoji: 🐨
+emoji: 🤖
 colorFrom: "#4567b7"
 colorTo: "#b74d4d"
 sdk: streamlit
