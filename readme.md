@@ -10,7 +10,3 @@ pinned: false
 license: apache-2.0
 short_description: Refined LanggraphAgenticAI
 ---
-
-# LanggraphAgenticAI
-
-This is my README file for the LanggraphAgenticAI project.
